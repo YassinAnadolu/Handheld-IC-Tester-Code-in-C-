@@ -2,7 +2,7 @@
 This program was produced by the
 CodeWizardAVR V2.05.0 Professional
 Automatic Program Generator
-© Copyright 1998-2010 Pavel Haiduc, HP InfoTech s.r.l.
+Â© Copyright 1998-2010 Pavel Haiduc, HP InfoTech s.r.l.
 http://www.hpinfotech.com
 
 Project : 
